@@ -1,0 +1,5 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <StackLayout>
+        <Placeholder creatingView="creatingView" id="chartView" />
+    </StackLayout>
+</Page>
